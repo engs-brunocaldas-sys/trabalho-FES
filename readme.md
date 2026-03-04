@@ -20,4 +20,3 @@ São ferramentas que por meio deles eu consigo mandar meu projeto do VsCode para
 
 * Apenas para mandar mais esse salvamento. projeto do Bruno
 * Lembrando depois do git add, vem o git commit, e para enviar o git push.
-
